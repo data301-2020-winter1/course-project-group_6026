@@ -3,7 +3,10 @@
 - Movie Productions
 
 ## Description
-Analysis of number of Movie Productions made by developing/underdeveloped countries.
+The directory contains raw and processed data of the number of movie productions made by over a 100 countries.
+
+## Dataset URL
+https://www.the-numbers.com/movies/production-countries/#tab=year
 
 ## Team Members
 
